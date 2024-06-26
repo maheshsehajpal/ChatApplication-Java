@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="join_chat">Join Chat</string>
+    <string name="send_message_button">Send</string>
+    <string name="send_image_button_content_description">Send Image</string>
+    <string name="message_edit_text_hint">Message</string>
+    <string name="sign_out">Sign out</string>
+</resources>
